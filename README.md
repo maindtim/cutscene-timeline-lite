@@ -26,6 +26,6 @@ Run the demo with `main.tscn`: Space pauses, R restarts, left/right arrows scrub
 ## Want the full tool?
 **Cutscene Timeline** adds a visual timeline editor (stage, draggable tracks, inspector), fade clips, JSON
 export/import so designers author cutscenes and your game loads them, validation, and 25 headless tests.
-Full tool and free web demo: https://cesarlars.itch.io (Cutscene Timeline)
+Full tool: https://cesarlars.itch.io/cutscene-timeline · Free web demo: https://cesarlars.itch.io/cutscene-timeline-demo
 
 MIT licensed.
